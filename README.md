@@ -1,5 +1,5 @@
-**Inventory Order Prediction: A Machine Learning Approach
-**
+**Inventory Order Prediction: A Machine Learning Approach**
+
 Inventory management has long been a critical challenge for businesses, balancing the risks of understocking and overstocking. While academia has proposed various solutions, many traditional models are built on the assumption that demand follows standard distributions like Poisson or normal. However, real-world demand patterns often defy these assumptions, rendering such models less effective.
 
 Recognizing this limitation, I have leveraged Machine Learning (ML) models to predict and anticipate market demand. Specifically, we've employed Decision Tree and Random Forest algorithms, known for their ability to capture complex, non-linear relationships in data.
